@@ -1,10 +1,16 @@
 _repo: Diary-of-a-Suicide_49261
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49261-h/images/cover.jpg
 creator:
   author:
     agent_name: Baker, Wallace E.
     gutenberg_agent_id: '45229'
     url: http://www.gutenberg.org/2009/agents/45229
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49261#Diary-of-a-Suicide
 gutenberg_issued: '2015-06-22'
 gutenberg_type: Text
 identifiers:
